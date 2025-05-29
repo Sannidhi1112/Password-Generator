@@ -19,11 +19,9 @@ This project lets users generate secure and customizable passwords by selecting 
 
 ---
 
-## 🖼️ Demo
+## 🖼️ live Demo
 
-> You can try it live by opening the `index.html` file in your browser.
 
-![Screenshot](screenshot.png) <!-- Replace with actual image if available -->
 
 ---
 
@@ -87,19 +85,6 @@ This project is ideal for beginners learning:
 - Basic validation and user feedback
 
 ---
-
-## 📷 Screenshot
-
-> Add a screenshot of your app here if you’d like:
-
-![App Screenshot](screenshot.png)
-
----
-
-## 🧑‍💻 Author
-
-**Sannidhi Reddy Aleti**  
-GitHub: [https://github.com/your-username](https://github.com/your-username)
 
 ---
 
