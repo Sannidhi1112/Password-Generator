@@ -21,7 +21,7 @@ This project lets users generate secure and customizable passwords by selecting 
 
 ## 🖼️ live Demo
 
-
+https://sannidhi1112.github.io/Password-Generator/
 
 ---
 
